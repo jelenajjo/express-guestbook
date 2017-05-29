@@ -10,7 +10,7 @@ New entry page:
 
 Homepage with entries:
 
-![homepage entries](https://image.prntscr.com/image/d64ee025f68149ccb3ac6f94c5b4569c.png)
+![homepage entries](https://image.prntscr.com/image/f4970b4fb8184aadabb7a959861b90ca.png)
 
 ## Instalation guide:
 
