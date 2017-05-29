@@ -1,5 +1,17 @@
 # Express Guestbook
 
+Homepage without entries:
+
+![empty homepage](https://image.prntscr.com/image/b3cc24a08b544716a72d2c5db92335fe.png)
+
+New entry page:
+
+![new entry](https://image.prntscr.com/image/9067f600afe94691ae209475f960b06d.png)
+
+Homepage with entries:
+
+![homepage entries](https://image.prntscr.com/image/d64ee025f68149ccb3ac6f94c5b4569c.png)
+
 ## Instalation guide:
 
 ```
